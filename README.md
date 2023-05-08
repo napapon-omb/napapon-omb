@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello!!! 👋
 
-<!--
-**napapon-omb/napapon-omb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 My name is Napapon Prapin ( same as [SSTfoxide](https://github.com/terngfoxid) )
+- 📫 Contact( for OMB's work only ): napapon@ombcrew.com
 
-Here are some ideas to get you started:
+## My Project at OMB ⚡
+- Empty
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills at OMB 🔭
+- Web Dev: Liferay(Beginner), Html , JS , Tailwind.CSS
+
+
+### My Stat at OMB 🤔
+[![Coding Language](https://github-readme-stats.vercel.app/api/top-langs/?username=napapon-omb&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
